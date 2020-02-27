@@ -48,7 +48,7 @@ keywords:                                  # At least one keyword is recommended
   - Plate Reader
   - Molecular Biology
 
-project-link: https://github.com/brianchowlab/OSP                      # At least project-link or documentation-home is required, otherwise recommended | absolute path URL
+project-link: https://github.com/cool-fosh/OSP/                      # At least project-link or documentation-home is required, otherwise recommended | absolute path URL
 
 #health-safety-notice: |                    # paragraph
 #  [value]
@@ -66,7 +66,7 @@ contributors:                              # recommended
 #    affiliation: [value]                   # text
 #    email: [value]                         # email address
 
-#image: [value]                             # recommended | absolute or relative path
+image: https://raw.githubusercontent.com/brianchowlab/OSP/master/Software/Graphical%20Files/repoImage.png                             # recommended | absolute or relative path
 
 #version: [value]                           # text
 
@@ -114,7 +114,7 @@ license:                                   # At least one license is required | 
 
 # Documentation
 
-documentation-home: [value]               # At least one of the project-link or documentation-home fields is required | absolute path
+documentation-home: https://github.com/brianchowlab/OSP              # At least one of the project-link or documentation-home fields is required | absolute path
 
 #archive-download: [value]                 # Absolute or relative path
 
