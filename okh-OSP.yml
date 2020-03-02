@@ -56,7 +56,7 @@ project-link: https://github.com/cool-fosh/OSP/                      # At least 
 contact:
   name: Brian Chow                            # text
 #  affiliation: [value]                     # text
-  email:  bchow (at) seas (dot) upenn (dot) edu                            # email address
+  email:  bchow(at)seas(dot)upenn(dot)edu                            # email address
 #  social:
 #    - platform: [value]                    # text
 #      user-handle: [value]                 # text
