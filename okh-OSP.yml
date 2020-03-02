@@ -53,10 +53,10 @@ project-link: https://github.com/cool-fosh/OSP/                      # At least 
 #health-safety-notice: |                    # paragraph
 #  [value]
 
-#contact:
-#  name: [value]                            # text
+contact:
+  name: Brian Chow                            # text
 #  affiliation: [value]                     # text
-#  email: [value]                           # email address
+  email:  bchow (at) seas (dot) upenn (dot) edu                            # email address
 #  social:
 #    - platform: [value]                    # text
 #      user-handle: [value]                 # text
